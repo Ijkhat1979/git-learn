@@ -6,4 +6,6 @@ this is for pull
 some extra text added
 another line added
 i will pull that file to my local repo
-branch added by the name git-bug-fix
+
+i am learning branching
+branch added by the name git-bug-fix 

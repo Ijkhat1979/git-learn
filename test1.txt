@@ -7,4 +7,5 @@ some extra text added
 another line added
 i will pull that file to my local repo
 i am learning branching
+i added feature2
 

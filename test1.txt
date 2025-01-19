@@ -6,6 +6,11 @@ this is for pull
 some extra text added
 another line added
 i will pull that file to my local repo
+<<<<<<< HEAD
 i am learning branching
 i added feature2
+=======
+>>>>>>> 888ed2d2427470de4f68e2760fa9205f1b64e4ec
 
+i am learning branching
+branch added by the name git-bug-fix 
